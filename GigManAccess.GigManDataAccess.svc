@@ -1,0 +1,2 @@
+<%@ ServiceHost Factory="System.ServiceModel.Activation.WebServiceHostFactory" 
+Service="GigManAccess.GigManDataAccess" %> 
